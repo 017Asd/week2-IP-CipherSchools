@@ -1,0 +1,24 @@
+/* box modal everthing in website in blocks is made using box modal.
+This contains 5properties height, width,padding,margin and border*/
+.box div{
+    display: inline;
+    background-color: steelblue;
+}
+
+.box span{
+    display: block;
+
+}
+
+.box{
+    background-color: tan;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    border-style: solid;
+    margin: 40px;
+    justify-content: center;
+}
+/* to create space inside the box we use padding */
+/* margin creates box around the box */
+/* to have be in center margin be auto it comes in middle */

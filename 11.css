@@ -1,0 +1,14 @@
+p::after{
+    content: "This is the para";
+}
+/* the above mentioned property is used to add anycontent before and after the element  */
+/* before also we can add */
+p::first-letter{
+    background-color: aqua;
+}
+/* the first one has the provided property */
+
+li::marker{
+    color: black;
+}
+/* marker is used to create a circle */

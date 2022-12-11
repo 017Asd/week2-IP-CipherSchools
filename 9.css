@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: url("C:\Users\sreedevi\OneDrive\Desktop\cipher html 2\Computer-Networking.jpg") no-repeat -10% 20px / 100px, 
+    url("C:\Users\sreedevi\OneDrive\Desktop\blue-pink-halftone-background_53876-99004.webp") no-repeat center / 100vw 138vw; 
+}
+
+article{
+    background-color: blue;
+}
+
+article h1{
+    font: 125px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    position: absolute;
+    top: 20%;
+    color: white;
+
+
+
+}

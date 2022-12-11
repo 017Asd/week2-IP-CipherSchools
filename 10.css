@@ -1,0 +1,8 @@
+a.active{
+    color: black;
+}
+/* abouve mentioned is used to show different color when we click them out */
+ a.focus{
+    border: 1px solid green;
+ }
+ /* when you focus above mentioned property works out */

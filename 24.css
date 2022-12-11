@@ -1,0 +1,15 @@
+:root{
+    --primary-color: #fff  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    background: red;
+    color: var(--primary-color);
+}
+

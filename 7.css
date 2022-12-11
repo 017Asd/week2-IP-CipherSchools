@@ -1,0 +1,13 @@
+body{
+    color: aqua;
+}
+p{
+    color: inherit;
+}
+/*  we use the inherit property to make the property apply to all the items without mentioning twice
+ */
+
+ /* descandent selector overided type selector but not class and id selector */
+ /* stylesheet work from top to bottom */
+ /* The top one gets specificity if you write important keyboard to overide the problem when the color we want is present after the element */
+ 

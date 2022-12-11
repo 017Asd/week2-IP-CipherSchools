@@ -1,0 +1,46 @@
+/* In css coloring can be done in different ways there is no particular way to do the process
+we have different colors code  */
+p{
+    color: blue;
+}
+p{
+    color: #000;
+}
+/* /it have rgb values */
+p{
+    color: rgb(0, 1, 0);
+}
+/* hsl saturation lightness we can mention anything using these */
+
+
+
+/* universal selector for all html */
+*{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+
+/* we can take seperate types and style them */
+p{
+    background-color: black;
+}
+
+
+.heading{
+    background-color: blue;
+}
+
+#one{
+    font: 10px;
+}
+
+/* different selctors 
+combining selectors
+descendent selectors
+Id selector
+Class selectors
+Group selectors
+type selectors */

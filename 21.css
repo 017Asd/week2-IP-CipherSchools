@@ -1,0 +1,21 @@
+div{
+    display: block;
+    overflow: hidden;
+    height: 100vh;
+    max-height: 100%;
+    perspective-origin: center top;
+}
+
+section{
+    padding: 35px 20px;
+    background-color: white;
+}
+
+header{
+    background: url(../blue-pink-halftone-background_53876-99004.webp) no-repeat;
+    height: 50vh;
+    position: relative;
+    padding: 1px;
+    transform-origin: center top;
+    transform: translateZ(-1px) scale(2,01);
+}

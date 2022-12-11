@@ -1,0 +1,17 @@
+/* child selector */
+header > p{
+    background-color: cadetblue;
+
+}
+/* adjacent sibling selector.This selects the first p after header */
+header + p{
+    font: 100;
+
+}
+
+/* general sibling selector selects every p after the header */
+header ~ p{
+    color: aqua;
+}
+
+

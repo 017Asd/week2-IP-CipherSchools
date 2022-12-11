@@ -1,0 +1,26 @@
+/* here we are styling HTML.html file using css */
+p{
+    color: black;
+    background-color: aqua;
+    background-image: url("C:\Users\sreedevi\OneDrive\Desktop\mountains-55067__340 (1).jpg");
+}
+/* {} all declarations are done inside and inside are properties. */
+
+
+
+/* CSS values and Units */
+
+
+
+/* we have absolute values like pixels,cm  */
+/* relative values % */
+/* 0 doesnt required units line segments also dont need units like transform,rotate,calculate these doesnt require any units */
+/* to combine things , is used */
+h1,h2,h3,h4{
+    color: bisque; 
+}
+/* above we applies same property all head tags one time  */
+
+
+
+
